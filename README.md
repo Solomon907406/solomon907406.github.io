@@ -1,4 +1,4 @@
-# solomon.github.io
+# solomon907406.github.io
 
 # Solomon at solomon.hensey@gmail.com
 # This is the account created for school
