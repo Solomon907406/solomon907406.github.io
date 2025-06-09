@@ -1,0 +1,14 @@
+# Flowchart Diagram
+	-This diagram is intended to describe the way that I get ideas for the writing that I do, along with the ways that I put the ideas into a document for other people to review and give feedback for.
+
+```mermaid
+flowchart TD;
+	A[Come up with scene] --> B[Explore scene in theatre of the mind];
+	B --> C[Expand scene over the course of a few days or weeks];
+	C --> D[Open a new Google Document];
+	D --> E[Begin writing the scene that is currently begin focused on];
+	E --> F[Make progress on writing the scene over the course of a few weeks];
+	F --> G[Get writers block and leave the document unupdated for a month or two];
+	G --> H[Figure out a new scene to focus on];
+	H --> E
+```
