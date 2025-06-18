@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Personal Introduction</title>
+    <style>
+      body{background-color: #0039ff}
+      h1{color: #4cff1f}
+      P{color: #ff200}
+    </style>
+  </head>
+
+  <body>
+    <h1>My name is Solomon Hensey</h1>
+    <p>I am a student who is learning about web development. In my free time I enjoy reading, writing my own stories, along with playing both video games as well as Dungeons & Dragons with my friends. I enjoy trying to solve problems and puzzles that make me think more strategically and deal with multiple different moving parts.</p>
+</html>
